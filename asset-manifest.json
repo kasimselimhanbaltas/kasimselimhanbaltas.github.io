@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.26f43a5a.css",
-    "main.js": "/static/js/main.ee34ab14.js",
+    "main.js": "/static/js/main.87366334.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/calorie-calculator1.png": "/static/media/calorie-calculator1.3f6d2a12d9e4d9f647a9.png",
@@ -11,7 +11,7 @@
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/2024 English CV.pdf": "/static/media/2024 English CV.db9314b008aab97b7080.pdf",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/c11.png": "/static/media/c11.f484a34f7d38565ba86c.png",
     "static/media/bg4.png": "/static/media/bg4.2960a5376dd2c9f69de2.png",
@@ -37,12 +37,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.26f43a5a.css.map": "/static/css/main.26f43a5a.css.map",
-    "main.ee34ab14.js.map": "/static/js/main.ee34ab14.js.map",
+    "main.87366334.js.map": "/static/js/main.87366334.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26f43a5a.css",
-    "static/js/main.ee34ab14.js"
+    "static/js/main.87366334.js"
   ]
 }
